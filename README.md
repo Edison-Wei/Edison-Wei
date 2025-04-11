@@ -1,8 +1,12 @@
 # Hello
 
-My name is Edison, I am currently in my 3rd year at Simon Fraser University, majoring in Health Science and pursuing Computer Science activities whenever available.
+My name is Edison. I am a 3rd year student at Simon Fraser University, pursuing Computer Science and activity building projects to improve the SFUCycling Club.
+
+[Linkedin](https://www.linkedin.com/in/edison-wei/)
 
 ## Current Projects
-[SFU Cycling Club](https://sfu-biking-club.vercel.app/) - a web application to assist club members and executives in communication and route planning. Members may suggest cycling routes, and executives can plan accordingly as they may.
+[SFU Cycling Club](https://www.sfucycling.ca/) - a web application focused on communication and event planning for the SFUCycling Club.
 
-[Course Compass](https://course-compass-dun.vercel.app/) [Repository](https://github.com/CCompassTeam/CourseCompass) - a university degree planner focused on, having course selection less of a hassle and making the most out of time there.
+
+## Past Projects
+[Course Compass](https://course-compass-dun.vercel.app/) [Repository](https://github.com/CCompassTeam/CourseCompass) - a university degree planner with a focus on making course selection less of a hassle and spending more time enjoying university life.
