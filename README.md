@@ -1,6 +1,6 @@
 # Hello
 
-My name is Edison. I am a 3rd year student at Simon Fraser University, pursuing Computer Science and activity building projects to improve the SFUCycling Club.
+My name is Edison. I am a 4th year Computer Science student at Simon Fraser University.
 
 [Linkedin](https://www.linkedin.com/in/edison-wei/)
 
